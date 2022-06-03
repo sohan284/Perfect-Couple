@@ -1,0 +1,23 @@
+.bg-gray {
+    background-color: rgb(204, 235, 240);
+}
+.title{
+    color: rgb(218, 131, 203);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    margin : 10px;
+}
+.logo{
+    border-radius: 30px;
+}
+.logoutbtn{
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(230, 117, 117);
+    color: white;
+    padding: 0px 10px;
+
+}
+.logoutbtn:hover{
+    background-color: red;
+}
